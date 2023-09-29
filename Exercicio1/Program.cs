@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace workspace {
+namespace Exercicio1 {
     class Program {             
         static void Main(string[] args) {
 

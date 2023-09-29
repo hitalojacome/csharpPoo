@@ -1,4 +1,4 @@
-namespace workspace {
+namespace Exercicio1 {
     class Triangulo {
 
         // Classe básica para solução do problema
