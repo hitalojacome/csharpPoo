@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\97528\\Desktop\\csharpPOO\\csharpPOO.csproj": {}
+    "c:\\Users\\97528\\Desktop\\csharpPOO\\Exercicio1\\csharpPOO.csproj": {}
   },
   "projects": {
-    "C:\\Users\\97528\\Desktop\\csharpPOO\\csharpPOO.csproj": {
+    "c:\\Users\\97528\\Desktop\\csharpPOO\\Exercicio1\\csharpPOO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\97528\\Desktop\\csharpPOO\\csharpPOO.csproj",
+        "projectUniqueName": "c:\\Users\\97528\\Desktop\\csharpPOO\\Exercicio1\\csharpPOO.csproj",
         "projectName": "csharpPOO",
-        "projectPath": "C:\\Users\\97528\\Desktop\\csharpPOO\\csharpPOO.csproj",
+        "projectPath": "c:\\Users\\97528\\Desktop\\csharpPOO\\Exercicio1\\csharpPOO.csproj",
         "packagesPath": "C:\\Users\\97528\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\97528\\Desktop\\csharpPOO\\obj\\",
+        "outputPath": "c:\\Users\\97528\\Desktop\\csharpPOO\\Exercicio1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\97528\\AppData\\Roaming\\NuGet\\NuGet.Config"
