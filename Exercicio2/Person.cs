@@ -1,5 +1,5 @@
 namespace Exercicio2 {
-    class People {
+    class Person {
 
         public string name;
         public int age;
