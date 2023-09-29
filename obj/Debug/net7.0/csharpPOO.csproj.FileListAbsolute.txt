@@ -1,0 +1,14 @@
+C:\Users\97528\Desktop\csharpPOO\obj\Debug\net7.0\csharpPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97528\Desktop\csharpPOO\obj\Debug\net7.0\csharpPOO.AssemblyInfoInputs.cache
+C:\Users\97528\Desktop\csharpPOO\obj\Debug\net7.0\csharpPOO.AssemblyInfo.cs
+C:\Users\97528\Desktop\csharpPOO\obj\Debug\net7.0\csharpPOO.csproj.CoreCompileInputs.cache
+C:\Users\97528\Desktop\csharpPOO\bin\Debug\net7.0\csharpPOO.exe
+C:\Users\97528\Desktop\csharpPOO\bin\Debug\net7.0\csharpPOO.deps.json
+C:\Users\97528\Desktop\csharpPOO\bin\Debug\net7.0\csharpPOO.runtimeconfig.json
+C:\Users\97528\Desktop\csharpPOO\bin\Debug\net7.0\csharpPOO.dll
+C:\Users\97528\Desktop\csharpPOO\bin\Debug\net7.0\csharpPOO.pdb
+C:\Users\97528\Desktop\csharpPOO\obj\Debug\net7.0\csharpPOO.dll
+C:\Users\97528\Desktop\csharpPOO\obj\Debug\net7.0\refint\csharpPOO.dll
+C:\Users\97528\Desktop\csharpPOO\obj\Debug\net7.0\csharpPOO.pdb
+C:\Users\97528\Desktop\csharpPOO\obj\Debug\net7.0\csharpPOO.genruntimeconfig.cache
+C:\Users\97528\Desktop\csharpPOO\obj\Debug\net7.0\ref\csharpPOO.dll
