@@ -4,23 +4,28 @@ namespace workspace {
     class Program {             
         static void Main(string[] args) {
 
+            Triangulo x, y; // Instânciando objetos (x e y) a classe Triangulo
+
+            x = new Triangulo(); // Criando um novo objeto x
+            y = new Triangulo(); // Criando um novo objeto y
+
             Console.Write("Entre com as medidas do triângulo X: ");
             string[] vet = Console.ReadLine().Split(' ');
-            double aX = double.Parse(vet[0]);
-            double bX = double.Parse(vet[1]);
-            double cX = double.Parse(vet[2]);
+            x.A = double.Parse(vet[0]); // Atribuindo um dado ao atributo A do objeto x
+            x.B = double.Parse(vet[1]);
+            x.C = double.Parse(vet[2]);
 
             Console.Write("Entre com as medidas do triângulo Y: ");
             vet = Console.ReadLine().Split(' ');
-            double aY = double.Parse(vet[0]);
-            double bY = double.Parse(vet[1]);
-            double cY = double.Parse(vet[2]);
+            y.A = double.Parse(vet[0]); // Atribuindo um dado ao atributo A do objeto y
+            y.B = double.Parse(vet[1]);
+            y.C = double.Parse(vet[2]);
 
-            double p = (aX + bX + cX) / 2.0;     
-            double areaX = Math.Sqrt(p * (p - aX) * (p - bX) * (p - cX));
+            double p = (x.A + x.B + x.C) / 2.0;     
+            double areaX = Math.Sqrt(p * (p - x.A) * (p - x.B) * (p - x.C));
 
-            p = (aY + bY + cY) / 2.0;     
-            double areaY = Math.Sqrt(p * (p - aY) * (p - bY) * (p - cY));
+            p = (y.A + y.B + y.C) / 2.0;     
+            double areaY = Math.Sqrt(p * (p - y.A) * (p - y.B) * (p - y.C));
 
             Console.WriteLine($"Área de X = {areaX:F4}");
             Console.WriteLine($"Área de Y = {areaY:F4}");
