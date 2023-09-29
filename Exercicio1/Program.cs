@@ -21,11 +21,8 @@ namespace Exercicio1 {
             y.B = double.Parse(vet[1]);
             y.C = double.Parse(vet[2]);
 
-            double p = (x.A + x.B + x.C) / 2.0;     
-            double areaX = Math.Sqrt(p * (p - x.A) * (p - x.B) * (p - x.C));
-
-            p = (y.A + y.B + y.C) / 2.0;     
-            double areaY = Math.Sqrt(p * (p - y.A) * (p - y.B) * (p - y.C));
+            double areaX = x.Area();
+            double areaY = y.Area();
 
             Console.WriteLine($"Área de X = {areaX:F4}");
             Console.WriteLine($"Área de Y = {areaY:F4}");
