@@ -8,21 +8,32 @@ namespace Exercicio4 {
             x = new Product();
 
             Console.WriteLine("Entre com os dados do produto: ");
+
             Console.Write("Nome: ");
-            x.name = Console.ReadLine();
+            x.Name = Console.ReadLine();
             Console.Write("Preço: ");
-            x.price = double.Parse(Console.ReadLine());
+            x.Price = double.Parse(Console.ReadLine());
             Console.Write("Quantidade no estoque: ");
-            x.quantity = int.Parse(Console.ReadLine());
+            x.Quantity = int.Parse(Console.ReadLine());
+            Console.WriteLine();
 
-            double total = x.TotalValueInStock();
-
-            Console.WriteLine($"Dados do produto: {x.name}, $ {x.price:F2}, {x.quantity} unidades, Total: $ {total:F2}");
+            Console.WriteLine($"Dados do produto: {x}");
+            Console.WriteLine();
 
             Console.Write("Digite o número de produtos a ser adicionado ao estoque: ");
-            int newProduct = int.Parse(Console.ReadLine());
+            int qtt = int.Parse(Console.ReadLine());
+            x.AddProduct(qtt);
+            Console.WriteLine();
 
-            
+            Console.WriteLine($"Dados atualizados: {x}");
+            Console.WriteLine();
+
+            Console.Write("Digite o número de produtos a ser removido do estoque: ");
+            qtt = int.Parse(Console.ReadLine());
+            x.RemoveProduct(qtt);
+            Console.WriteLine();
+
+            Console.WriteLine($"Dados atualizados: {x}");
             
         }
     }

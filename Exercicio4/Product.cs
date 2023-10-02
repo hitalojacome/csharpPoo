@@ -1,20 +1,29 @@
 namespace Exercicio4 {
     class Product {
+        // Atributos
+        public string Name;
+        public double Price;
+        public int Quantity;
 
-        public string name;
-        public double price;
-        public int quantity;
+        // Métodos
+        // Método ToString
+        public override string ToString() {
+            return ($"{Name}, $ {Price:F2}, {Quantity} unidades, Total: $ {TotalValueInStock():F2}.");
+        }
 
+        // Método para calcular o valor total em estoque
         public double TotalValueInStock() {
-            return quantity * price;
+            return Quantity * Price;
         }
 
-        void AddProduct() {
-            quantity++;
+        // Adiciona produtos
+        public void AddProduct(int quantity) {
+            Quantity += quantity;
         }
 
-        void RemoveProduct() {
-            quantity--;
+        // Remove Produtos
+        public void RemoveProduct(int quantity) {
+            Quantity -= quantity;
         }
 
 
