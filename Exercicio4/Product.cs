@@ -21,7 +21,7 @@ namespace Exercicio4 {
             Quantity += quantity;
         }
 
-        // Remove Produtos
+        // Remove produtos
         public void RemoveProduct(int quantity) {
             Quantity -= quantity;
         }

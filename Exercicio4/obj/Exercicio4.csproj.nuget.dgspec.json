@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\97528\\Desktop\\csharpPOO\\Exercicio4\\Exercicio4.csproj": {}
+    "c:\\Users\\97528\\Desktop\\csharpPOO\\Exercicio4\\Exercicio4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\97528\\Desktop\\csharpPOO\\Exercicio4\\Exercicio4.csproj": {
+    "c:\\Users\\97528\\Desktop\\csharpPOO\\Exercicio4\\Exercicio4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\97528\\Desktop\\csharpPOO\\Exercicio4\\Exercicio4.csproj",
+        "projectUniqueName": "c:\\Users\\97528\\Desktop\\csharpPOO\\Exercicio4\\Exercicio4.csproj",
         "projectName": "Exercicio4",
-        "projectPath": "C:\\Users\\97528\\Desktop\\csharpPOO\\Exercicio4\\Exercicio4.csproj",
+        "projectPath": "c:\\Users\\97528\\Desktop\\csharpPOO\\Exercicio4\\Exercicio4.csproj",
         "packagesPath": "C:\\Users\\97528\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\97528\\Desktop\\csharpPOO\\Exercicio4\\obj\\",
+        "outputPath": "c:\\Users\\97528\\Desktop\\csharpPOO\\Exercicio4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\97528\\AppData\\Roaming\\NuGet\\NuGet.Config"
