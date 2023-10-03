@@ -1,0 +1,14 @@
+C:\Users\jacom\OneDrive\Área de Trabalho\csharpPoo\Exercicio9\bin\Debug\net7.0\Exercicio9.exe
+C:\Users\jacom\OneDrive\Área de Trabalho\csharpPoo\Exercicio9\bin\Debug\net7.0\Exercicio9.deps.json
+C:\Users\jacom\OneDrive\Área de Trabalho\csharpPoo\Exercicio9\bin\Debug\net7.0\Exercicio9.runtimeconfig.json
+C:\Users\jacom\OneDrive\Área de Trabalho\csharpPoo\Exercicio9\bin\Debug\net7.0\Exercicio9.dll
+C:\Users\jacom\OneDrive\Área de Trabalho\csharpPoo\Exercicio9\bin\Debug\net7.0\Exercicio9.pdb
+C:\Users\jacom\OneDrive\Área de Trabalho\csharpPoo\Exercicio9\obj\Debug\net7.0\Exercicio9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacom\OneDrive\Área de Trabalho\csharpPoo\Exercicio9\obj\Debug\net7.0\Exercicio9.AssemblyInfoInputs.cache
+C:\Users\jacom\OneDrive\Área de Trabalho\csharpPoo\Exercicio9\obj\Debug\net7.0\Exercicio9.AssemblyInfo.cs
+C:\Users\jacom\OneDrive\Área de Trabalho\csharpPoo\Exercicio9\obj\Debug\net7.0\Exercicio9.csproj.CoreCompileInputs.cache
+C:\Users\jacom\OneDrive\Área de Trabalho\csharpPoo\Exercicio9\obj\Debug\net7.0\Exercicio9.dll
+C:\Users\jacom\OneDrive\Área de Trabalho\csharpPoo\Exercicio9\obj\Debug\net7.0\refint\Exercicio9.dll
+C:\Users\jacom\OneDrive\Área de Trabalho\csharpPoo\Exercicio9\obj\Debug\net7.0\Exercicio9.pdb
+C:\Users\jacom\OneDrive\Área de Trabalho\csharpPoo\Exercicio9\obj\Debug\net7.0\Exercicio9.genruntimeconfig.cache
+C:\Users\jacom\OneDrive\Área de Trabalho\csharpPoo\Exercicio9\obj\Debug\net7.0\ref\Exercicio9.dll
