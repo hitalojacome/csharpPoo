@@ -1,0 +1,14 @@
+C:\Users\jacom\OneDrive\Área de Trabalho\csharpPoo\Exercicio8\bin\Debug\net7.0\Exercicio8.exe
+C:\Users\jacom\OneDrive\Área de Trabalho\csharpPoo\Exercicio8\bin\Debug\net7.0\Exercicio8.deps.json
+C:\Users\jacom\OneDrive\Área de Trabalho\csharpPoo\Exercicio8\bin\Debug\net7.0\Exercicio8.runtimeconfig.json
+C:\Users\jacom\OneDrive\Área de Trabalho\csharpPoo\Exercicio8\bin\Debug\net7.0\Exercicio8.dll
+C:\Users\jacom\OneDrive\Área de Trabalho\csharpPoo\Exercicio8\bin\Debug\net7.0\Exercicio8.pdb
+C:\Users\jacom\OneDrive\Área de Trabalho\csharpPoo\Exercicio8\obj\Debug\net7.0\Exercicio8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacom\OneDrive\Área de Trabalho\csharpPoo\Exercicio8\obj\Debug\net7.0\Exercicio8.AssemblyInfoInputs.cache
+C:\Users\jacom\OneDrive\Área de Trabalho\csharpPoo\Exercicio8\obj\Debug\net7.0\Exercicio8.AssemblyInfo.cs
+C:\Users\jacom\OneDrive\Área de Trabalho\csharpPoo\Exercicio8\obj\Debug\net7.0\Exercicio8.csproj.CoreCompileInputs.cache
+C:\Users\jacom\OneDrive\Área de Trabalho\csharpPoo\Exercicio8\obj\Debug\net7.0\Exercicio8.dll
+C:\Users\jacom\OneDrive\Área de Trabalho\csharpPoo\Exercicio8\obj\Debug\net7.0\refint\Exercicio8.dll
+C:\Users\jacom\OneDrive\Área de Trabalho\csharpPoo\Exercicio8\obj\Debug\net7.0\Exercicio8.pdb
+C:\Users\jacom\OneDrive\Área de Trabalho\csharpPoo\Exercicio8\obj\Debug\net7.0\Exercicio8.genruntimeconfig.cache
+C:\Users\jacom\OneDrive\Área de Trabalho\csharpPoo\Exercicio8\obj\Debug\net7.0\ref\Exercicio8.dll
