@@ -12,3 +12,17 @@ C:\Users\97528\Desktop\csharpPOO\Exercicio7\obj\Debug\net7.0\refint\Exercicio7.d
 C:\Users\97528\Desktop\csharpPOO\Exercicio7\obj\Debug\net7.0\Exercicio7.pdb
 C:\Users\97528\Desktop\csharpPOO\Exercicio7\obj\Debug\net7.0\Exercicio7.genruntimeconfig.cache
 C:\Users\97528\Desktop\csharpPOO\Exercicio7\obj\Debug\net7.0\ref\Exercicio7.dll
+C:\Users\jacom\OneDrive\Área de Trabalho\csharpPoo\Exercicio7\bin\Debug\net7.0\Exercicio7.exe
+C:\Users\jacom\OneDrive\Área de Trabalho\csharpPoo\Exercicio7\bin\Debug\net7.0\Exercicio7.deps.json
+C:\Users\jacom\OneDrive\Área de Trabalho\csharpPoo\Exercicio7\bin\Debug\net7.0\Exercicio7.runtimeconfig.json
+C:\Users\jacom\OneDrive\Área de Trabalho\csharpPoo\Exercicio7\bin\Debug\net7.0\Exercicio7.dll
+C:\Users\jacom\OneDrive\Área de Trabalho\csharpPoo\Exercicio7\bin\Debug\net7.0\Exercicio7.pdb
+C:\Users\jacom\OneDrive\Área de Trabalho\csharpPoo\Exercicio7\obj\Debug\net7.0\Exercicio7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacom\OneDrive\Área de Trabalho\csharpPoo\Exercicio7\obj\Debug\net7.0\Exercicio7.AssemblyInfoInputs.cache
+C:\Users\jacom\OneDrive\Área de Trabalho\csharpPoo\Exercicio7\obj\Debug\net7.0\Exercicio7.AssemblyInfo.cs
+C:\Users\jacom\OneDrive\Área de Trabalho\csharpPoo\Exercicio7\obj\Debug\net7.0\Exercicio7.csproj.CoreCompileInputs.cache
+C:\Users\jacom\OneDrive\Área de Trabalho\csharpPoo\Exercicio7\obj\Debug\net7.0\Exercicio7.dll
+C:\Users\jacom\OneDrive\Área de Trabalho\csharpPoo\Exercicio7\obj\Debug\net7.0\refint\Exercicio7.dll
+C:\Users\jacom\OneDrive\Área de Trabalho\csharpPoo\Exercicio7\obj\Debug\net7.0\Exercicio7.pdb
+C:\Users\jacom\OneDrive\Área de Trabalho\csharpPoo\Exercicio7\obj\Debug\net7.0\Exercicio7.genruntimeconfig.cache
+C:\Users\jacom\OneDrive\Área de Trabalho\csharpPoo\Exercicio7\obj\Debug\net7.0\ref\Exercicio7.dll
