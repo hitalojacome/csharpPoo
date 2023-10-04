@@ -5,6 +5,11 @@ namespace Exercicio4 {
         public double Price;
         public int Quantity;
 
+        // Construtor
+        public Product(string name, double price, int quantity) {
+            Name = name; Price = price; Quantity = quantity;
+        }
+
         // Métodos
         // Método ToString
         public override string ToString() {
