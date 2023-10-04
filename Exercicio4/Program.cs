@@ -4,18 +4,18 @@ namespace Exercicio4 {
     class Program {             
         static void Main(string[] args) {
 
-            Product x;
-            x = new Product();
-
             Console.WriteLine("Entre com os dados do produto: ");
 
             Console.Write("Nome: ");
-            x.Name = Console.ReadLine();
+            string name = Console.ReadLine();
             Console.Write("Preço: ");
-            x.Price = double.Parse(Console.ReadLine());
+            double price = double.Parse(Console.ReadLine());
             Console.Write("Quantidade no estoque: ");
-            x.Quantity = int.Parse(Console.ReadLine());
+            int quantity = int.Parse(Console.ReadLine());
             Console.WriteLine();
+
+            // Instancição de um objeto passando os parametros do construtor
+            Product x = new Product(name, price, quantity);
 
             Console.WriteLine($"Dados do produto: {x}");
             Console.WriteLine();
@@ -34,7 +34,7 @@ namespace Exercicio4 {
             Console.WriteLine();
 
             Console.WriteLine($"Dados atualizados: {x}");
-            
+
         }
     }
 }
