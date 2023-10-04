@@ -1,0 +1,1 @@
+![Enunciado do Exercício](image.png)
