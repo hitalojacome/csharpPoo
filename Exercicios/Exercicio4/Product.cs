@@ -5,7 +5,7 @@ namespace Exercicio4 {
         private double _price;
         private int _quantity;
 
-        // Construtor
+        // Construtores
         public Product() {}
         public Product(string name, double price, int quantity) {
             _name = name; _price = price; _quantity = quantity;
@@ -21,14 +21,9 @@ namespace Exercicio4 {
             }
         }
 
-        //Getters and Setters
-        public double GetPrice() {
-            return _price;
-        }
+        public double Price { get {return _price;} }
 
-        public int GetQuantity() {
-            return _quantity;
-        }
+        public int Quantity { get {return _quantity;} }
 
 
         // Métodos
