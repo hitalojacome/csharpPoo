@@ -11,6 +11,26 @@ namespace Exercicio4 {
             _name = name; _price = price; _quantity = quantity;
         }
 
+        //Getters and Setters
+        public string GetName() {
+            return _name;
+        }
+
+        public void SetName(string name) {
+            if (name != null && name.Length > 1) {
+                _name = name;
+            }
+        }
+
+        public double GetPrice() {
+            return _price;
+        }
+
+        public int GetQuantity() {
+            return _quantity;
+        }
+
+
         // Métodos
         // Método ToString
         public override string ToString() {
