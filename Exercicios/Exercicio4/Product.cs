@@ -11,17 +11,17 @@ namespace Exercicio4 {
             _name = name; _price = price; _quantity = quantity;
         }
 
-        //Getters and Setters
-        public string GetName() {
-            return _name;
-        }
-
-        public void SetName(string name) {
-            if (name != null && name.Length > 1) {
-                _name = name;
+        //Properties
+        public string Name {
+            get {return _name;}
+            set {
+                if (value != null && value.Length > 1) {
+                _name = value;
+            }
             }
         }
 
+        //Getters and Setters
         public double GetPrice() {
             return _price;
         }
