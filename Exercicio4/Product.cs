@@ -6,6 +6,7 @@ namespace Exercicio4 {
         private int _quantity;
 
         // Construtor
+        public Product() {}
         public Product(string name, double price, int quantity) {
             _name = name; _price = price; _quantity = quantity;
         }
