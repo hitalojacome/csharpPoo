@@ -7,11 +7,11 @@ namespace VetPoo2 {
             Console.Write("Quantos quartos serão alugados? ");
             int n = int.Parse(Console.ReadLine());
 
-            Tenant[] tenants = new Tenant[9];
+            Tenant[] tenants = new Tenant[10];
 
-            for (int i=0; i<n; i++) {
+            for (int i=1; i<=n; i++) {
                 Console.WriteLine();
-                Console.WriteLine($"Aluguel #{i+1}");
+                Console.WriteLine($"Aluguel #{i}");
 
                 Console.Write("Nome: ");
                 string tenantName = Console.ReadLine();
@@ -20,14 +20,14 @@ namespace VetPoo2 {
                 Console.Write("Quarto: ");
                 int tenantBedroom = int.Parse(Console.ReadLine());
 
-                tenants[tenantBedroom-1] = new Tenant { Name = tenantName, Email = tenantEmail, Bedroom = tenantBedroom };
+                tenants[tenantBedroom] = new Tenant(tenantName, tenantEmail);
             }
             Console.WriteLine();
             
             Console.WriteLine("Quartos ocupados:");
             for (int i=0; i<9; i++) {
                 if (tenants[i] != null ) {
-                    Console.WriteLine($"{tenants[i].Bedroom}: {tenants[i].Name}, {tenants[i].Email}");
+                    Console.WriteLine($"{i}: {tenants[i]}");
                 }
             } 
             
