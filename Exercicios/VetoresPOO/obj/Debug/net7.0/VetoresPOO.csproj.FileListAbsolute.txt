@@ -1,0 +1,14 @@
+C:\Users\97528\Desktop\csharpPOO\Exercicios\VetoresPOO\bin\Debug\net7.0\VetoresPOO.exe
+C:\Users\97528\Desktop\csharpPOO\Exercicios\VetoresPOO\bin\Debug\net7.0\VetoresPOO.deps.json
+C:\Users\97528\Desktop\csharpPOO\Exercicios\VetoresPOO\bin\Debug\net7.0\VetoresPOO.runtimeconfig.json
+C:\Users\97528\Desktop\csharpPOO\Exercicios\VetoresPOO\bin\Debug\net7.0\VetoresPOO.dll
+C:\Users\97528\Desktop\csharpPOO\Exercicios\VetoresPOO\bin\Debug\net7.0\VetoresPOO.pdb
+C:\Users\97528\Desktop\csharpPOO\Exercicios\VetoresPOO\obj\Debug\net7.0\VetoresPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97528\Desktop\csharpPOO\Exercicios\VetoresPOO\obj\Debug\net7.0\VetoresPOO.AssemblyInfoInputs.cache
+C:\Users\97528\Desktop\csharpPOO\Exercicios\VetoresPOO\obj\Debug\net7.0\VetoresPOO.AssemblyInfo.cs
+C:\Users\97528\Desktop\csharpPOO\Exercicios\VetoresPOO\obj\Debug\net7.0\VetoresPOO.csproj.CoreCompileInputs.cache
+C:\Users\97528\Desktop\csharpPOO\Exercicios\VetoresPOO\obj\Debug\net7.0\VetoresPOO.dll
+C:\Users\97528\Desktop\csharpPOO\Exercicios\VetoresPOO\obj\Debug\net7.0\refint\VetoresPOO.dll
+C:\Users\97528\Desktop\csharpPOO\Exercicios\VetoresPOO\obj\Debug\net7.0\VetoresPOO.pdb
+C:\Users\97528\Desktop\csharpPOO\Exercicios\VetoresPOO\obj\Debug\net7.0\VetoresPOO.genruntimeconfig.cache
+C:\Users\97528\Desktop\csharpPOO\Exercicios\VetoresPOO\obj\Debug\net7.0\ref\VetoresPOO.dll
