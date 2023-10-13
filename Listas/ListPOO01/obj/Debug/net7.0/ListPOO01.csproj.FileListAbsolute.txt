@@ -1,0 +1,14 @@
+C:\Users\beatr\OneDrive\Documentos\dev\csharpPoo\Listas\ListPOO01\obj\Debug\net7.0\ListPOO01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beatr\OneDrive\Documentos\dev\csharpPoo\Listas\ListPOO01\obj\Debug\net7.0\ListPOO01.AssemblyInfoInputs.cache
+C:\Users\beatr\OneDrive\Documentos\dev\csharpPoo\Listas\ListPOO01\obj\Debug\net7.0\ListPOO01.AssemblyInfo.cs
+C:\Users\beatr\OneDrive\Documentos\dev\csharpPoo\Listas\ListPOO01\obj\Debug\net7.0\ListPOO01.csproj.CoreCompileInputs.cache
+C:\Users\beatr\OneDrive\Documentos\dev\csharpPoo\Listas\ListPOO01\bin\Debug\net7.0\ListPOO01.exe
+C:\Users\beatr\OneDrive\Documentos\dev\csharpPoo\Listas\ListPOO01\bin\Debug\net7.0\ListPOO01.deps.json
+C:\Users\beatr\OneDrive\Documentos\dev\csharpPoo\Listas\ListPOO01\bin\Debug\net7.0\ListPOO01.runtimeconfig.json
+C:\Users\beatr\OneDrive\Documentos\dev\csharpPoo\Listas\ListPOO01\bin\Debug\net7.0\ListPOO01.dll
+C:\Users\beatr\OneDrive\Documentos\dev\csharpPoo\Listas\ListPOO01\bin\Debug\net7.0\ListPOO01.pdb
+C:\Users\beatr\OneDrive\Documentos\dev\csharpPoo\Listas\ListPOO01\obj\Debug\net7.0\ListPOO01.dll
+C:\Users\beatr\OneDrive\Documentos\dev\csharpPoo\Listas\ListPOO01\obj\Debug\net7.0\refint\ListPOO01.dll
+C:\Users\beatr\OneDrive\Documentos\dev\csharpPoo\Listas\ListPOO01\obj\Debug\net7.0\ListPOO01.pdb
+C:\Users\beatr\OneDrive\Documentos\dev\csharpPoo\Listas\ListPOO01\obj\Debug\net7.0\ListPOO01.genruntimeconfig.cache
+C:\Users\beatr\OneDrive\Documentos\dev\csharpPoo\Listas\ListPOO01\obj\Debug\net7.0\ref\ListPOO01.dll
