@@ -1,0 +1,14 @@
+C:\Users\97528\Desktop\csharpPOO\Enum\Exercício01\bin\Debug\net7.0\Exercício01.exe
+C:\Users\97528\Desktop\csharpPOO\Enum\Exercício01\bin\Debug\net7.0\Exercício01.deps.json
+C:\Users\97528\Desktop\csharpPOO\Enum\Exercício01\bin\Debug\net7.0\Exercício01.runtimeconfig.json
+C:\Users\97528\Desktop\csharpPOO\Enum\Exercício01\bin\Debug\net7.0\Exercício01.dll
+C:\Users\97528\Desktop\csharpPOO\Enum\Exercício01\bin\Debug\net7.0\Exercício01.pdb
+C:\Users\97528\Desktop\csharpPOO\Enum\Exercício01\obj\Debug\net7.0\Exercício01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97528\Desktop\csharpPOO\Enum\Exercício01\obj\Debug\net7.0\Exercício01.AssemblyInfoInputs.cache
+C:\Users\97528\Desktop\csharpPOO\Enum\Exercício01\obj\Debug\net7.0\Exercício01.AssemblyInfo.cs
+C:\Users\97528\Desktop\csharpPOO\Enum\Exercício01\obj\Debug\net7.0\Exercício01.csproj.CoreCompileInputs.cache
+C:\Users\97528\Desktop\csharpPOO\Enum\Exercício01\obj\Debug\net7.0\Exercício01.dll
+C:\Users\97528\Desktop\csharpPOO\Enum\Exercício01\obj\Debug\net7.0\refint\Exercício01.dll
+C:\Users\97528\Desktop\csharpPOO\Enum\Exercício01\obj\Debug\net7.0\Exercício01.pdb
+C:\Users\97528\Desktop\csharpPOO\Enum\Exercício01\obj\Debug\net7.0\Exercício01.genruntimeconfig.cache
+C:\Users\97528\Desktop\csharpPOO\Enum\Exercício01\obj\Debug\net7.0\ref\Exercício01.dll
