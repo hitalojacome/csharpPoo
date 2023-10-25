@@ -4,10 +4,10 @@ namespace Exercício01.Entities
 {
     public class Worker
     {
-        public string Name { get; set; }        
+        public string? Name { get; set; }        
         public WorkerLevel Level { get; set; }
         public double BaseSalary { get; set; }
-        public Department Department { get; set; }
+        public Department? Department { get; set; }
         public List<HourContract> Contracts { get; private set; } = new List<HourContract>();
 
         public Worker () {}
