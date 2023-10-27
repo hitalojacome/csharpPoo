@@ -1,0 +1,14 @@
+C:\Users\97528\Desktop\csharpPOO\Herança-aula\obj\Debug\net7.0\Herança-aula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97528\Desktop\csharpPOO\Herança-aula\obj\Debug\net7.0\Herança-aula.AssemblyInfoInputs.cache
+C:\Users\97528\Desktop\csharpPOO\Herança-aula\obj\Debug\net7.0\Herança-aula.AssemblyInfo.cs
+C:\Users\97528\Desktop\csharpPOO\Herança-aula\obj\Debug\net7.0\Herança-aula.csproj.CoreCompileInputs.cache
+C:\Users\97528\Desktop\csharpPOO\Herança-aula\bin\Debug\net7.0\Herança-aula.exe
+C:\Users\97528\Desktop\csharpPOO\Herança-aula\bin\Debug\net7.0\Herança-aula.deps.json
+C:\Users\97528\Desktop\csharpPOO\Herança-aula\bin\Debug\net7.0\Herança-aula.runtimeconfig.json
+C:\Users\97528\Desktop\csharpPOO\Herança-aula\bin\Debug\net7.0\Herança-aula.dll
+C:\Users\97528\Desktop\csharpPOO\Herança-aula\bin\Debug\net7.0\Herança-aula.pdb
+C:\Users\97528\Desktop\csharpPOO\Herança-aula\obj\Debug\net7.0\Herança-aula.dll
+C:\Users\97528\Desktop\csharpPOO\Herança-aula\obj\Debug\net7.0\refint\Herança-aula.dll
+C:\Users\97528\Desktop\csharpPOO\Herança-aula\obj\Debug\net7.0\Herança-aula.pdb
+C:\Users\97528\Desktop\csharpPOO\Herança-aula\obj\Debug\net7.0\Herança-aula.genruntimeconfig.cache
+C:\Users\97528\Desktop\csharpPOO\Herança-aula\obj\Debug\net7.0\ref\Herança-aula.dll

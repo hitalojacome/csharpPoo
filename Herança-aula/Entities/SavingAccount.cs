@@ -13,5 +13,10 @@ namespace Herança_aula.Entities
         public void UpdateBalance () {
             Balance += Balance * InterestRate;
         }
+
+        public override void Withdraw (double amount) {
+		base.Withdraw(amount); // trás a implementação da classe base
+		Balance -= 2.0; // Implementação especifica
+}
     }
 }
