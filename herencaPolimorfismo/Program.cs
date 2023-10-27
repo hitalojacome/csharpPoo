@@ -40,11 +40,13 @@ namespace Websupply {
                     Employee employee = new Employee(name, hours, valuePerHour);
                     list.Add(employee);
                 }
-
-                Console.WriteLine("Payments: ");
                 Console.WriteLine();
-
             }
+
+            Console.WriteLine("Payments: ");
+                for(int i = 0; i < n; i++) {
+                    Console.WriteLine($"{list[i].Name} - $ {list[i].Payment():F2}");
+                }
 
         }
     }

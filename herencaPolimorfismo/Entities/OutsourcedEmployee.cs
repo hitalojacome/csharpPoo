@@ -11,7 +11,7 @@ namespace herencaPolimorfismo.Entities
 
         public override double Payment()
         {
-            return base.Payment();
+            return base.Payment() + 0.11 * AdditionalCharge;
         }
     }
 }
