@@ -5,7 +5,7 @@ namespace Workspace {
     class Program {
         static void Main(string[] args) {
 
-            /*Account acc = new Account(8010, "Hitalo Jacome", 0.0);
+            Account acc = new Account(8010, "Hitalo Jacome", 0.0);
             BusinessAccount bacc = new BusinessAccount(6482, "Pedro Cabral", 0.0, 500.0);
 
             // UPCASTING
@@ -30,15 +30,7 @@ namespace Workspace {
                 acc5.UpdateBalance();
                 Console.WriteLine("Update!");
             }
-            */
 
-            Account ac1 = new Account(9090, "Pedrinho", 10.00);
-            Account ac2 = new SavingAccount(9191, "Laurinha", 10.00, 300.00);
-
-            ac1.Withdraw(2);
-            ac2.Withdraw(2);
-
-            Console.WriteLine($"Account: {ac1.Balance} | SavingAccount: {ac2.Balance}");
         }
     }
 }
