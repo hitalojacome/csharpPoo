@@ -16,7 +16,7 @@ namespace herencaPolimorfismo2.Entities
 
         public override string ToString()
         {
-            return $"{Name} $ {Price:F2} (Cumstoms fee: $ {CustomsFee:F2})";
+            return $"{Name} $ {TotalPrice():F2} (Cumstoms fee: $ {CustomsFee:F2})";
         }
 
     }
