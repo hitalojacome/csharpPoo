@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\97528\\Desktop\\csharpPOO\\herencaPolimorfismo\\herencaPolimorfismo.csproj": {}
+    "C:\\Users\\beatr\\OneDrive\\Documentos\\dev\\csharpPoo\\herencaPolimorfismo\\herencaPolimorfismo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\97528\\Desktop\\csharpPOO\\herencaPolimorfismo\\herencaPolimorfismo.csproj": {
+    "C:\\Users\\beatr\\OneDrive\\Documentos\\dev\\csharpPoo\\herencaPolimorfismo\\herencaPolimorfismo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\97528\\Desktop\\csharpPOO\\herencaPolimorfismo\\herencaPolimorfismo.csproj",
+        "projectUniqueName": "C:\\Users\\beatr\\OneDrive\\Documentos\\dev\\csharpPoo\\herencaPolimorfismo\\herencaPolimorfismo.csproj",
         "projectName": "herencaPolimorfismo",
-        "projectPath": "C:\\Users\\97528\\Desktop\\csharpPOO\\herencaPolimorfismo\\herencaPolimorfismo.csproj",
-        "packagesPath": "C:\\Users\\97528\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\97528\\Desktop\\csharpPOO\\herencaPolimorfismo\\obj\\",
+        "projectPath": "C:\\Users\\beatr\\OneDrive\\Documentos\\dev\\csharpPoo\\herencaPolimorfismo\\herencaPolimorfismo.csproj",
+        "packagesPath": "C:\\Users\\beatr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\beatr\\OneDrive\\Documentos\\dev\\csharpPoo\\herencaPolimorfismo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\97528\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\beatr\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
