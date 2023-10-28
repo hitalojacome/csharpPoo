@@ -1,0 +1,14 @@
+C:\Users\beatr\OneDrive\Documentos\dev\csharpPoo\herancaPolimorfismo2\bin\Debug\net7.0\herancaPolimorfismo2.exe
+C:\Users\beatr\OneDrive\Documentos\dev\csharpPoo\herancaPolimorfismo2\bin\Debug\net7.0\herancaPolimorfismo2.deps.json
+C:\Users\beatr\OneDrive\Documentos\dev\csharpPoo\herancaPolimorfismo2\bin\Debug\net7.0\herancaPolimorfismo2.runtimeconfig.json
+C:\Users\beatr\OneDrive\Documentos\dev\csharpPoo\herancaPolimorfismo2\bin\Debug\net7.0\herancaPolimorfismo2.dll
+C:\Users\beatr\OneDrive\Documentos\dev\csharpPoo\herancaPolimorfismo2\bin\Debug\net7.0\herancaPolimorfismo2.pdb
+C:\Users\beatr\OneDrive\Documentos\dev\csharpPoo\herancaPolimorfismo2\obj\Debug\net7.0\herancaPolimorfismo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beatr\OneDrive\Documentos\dev\csharpPoo\herancaPolimorfismo2\obj\Debug\net7.0\herancaPolimorfismo2.AssemblyInfoInputs.cache
+C:\Users\beatr\OneDrive\Documentos\dev\csharpPoo\herancaPolimorfismo2\obj\Debug\net7.0\herancaPolimorfismo2.AssemblyInfo.cs
+C:\Users\beatr\OneDrive\Documentos\dev\csharpPoo\herancaPolimorfismo2\obj\Debug\net7.0\herancaPolimorfismo2.csproj.CoreCompileInputs.cache
+C:\Users\beatr\OneDrive\Documentos\dev\csharpPoo\herancaPolimorfismo2\obj\Debug\net7.0\herancaPolimorfismo2.dll
+C:\Users\beatr\OneDrive\Documentos\dev\csharpPoo\herancaPolimorfismo2\obj\Debug\net7.0\refint\herancaPolimorfismo2.dll
+C:\Users\beatr\OneDrive\Documentos\dev\csharpPoo\herancaPolimorfismo2\obj\Debug\net7.0\herancaPolimorfismo2.pdb
+C:\Users\beatr\OneDrive\Documentos\dev\csharpPoo\herancaPolimorfismo2\obj\Debug\net7.0\herancaPolimorfismo2.genruntimeconfig.cache
+C:\Users\beatr\OneDrive\Documentos\dev\csharpPoo\herancaPolimorfismo2\obj\Debug\net7.0\ref\herancaPolimorfismo2.dll
