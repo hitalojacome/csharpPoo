@@ -12,7 +12,7 @@ namespace herencaPolimorfismo2.Entities
             Price = price;
         }
 
-        public virtual override string ToString()
+        public override string ToString()
         {
             return $"{Name} $ {Price:F2}";
         }

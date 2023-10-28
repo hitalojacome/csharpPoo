@@ -24,6 +24,7 @@ namespace Workspace {
                     double price = double.Parse(Console.ReadLine());
 
                     Product product = new Product(name, price);
+                    list.Add(product);
                 } else if (cui == 'i' || cui == 'I') {
                     Console.Write("Name: ");
                     string? name = Console.ReadLine();
@@ -33,6 +34,7 @@ namespace Workspace {
                     double customsFee = double.Parse(Console.ReadLine());
 
                     Product importedProduct = new ImportedProduct(name, price, customsFee);
+                    list.Add(importedProduct);
                 } else if (cui == 'u' || cui == 'U') {
                     Console.Write("Name: ");
                     string? name = Console.ReadLine();
@@ -42,6 +44,7 @@ namespace Workspace {
                     DateTime manufactureDate = DateTime.Parse(Console.ReadLine());
 
                     Product usedProduct = new UsedProduct(name, price, manufactureDate);
+                    list.Add(usedProduct);
                 } else {
                     Console.WriteLine("Wrong answer!");
                 }
