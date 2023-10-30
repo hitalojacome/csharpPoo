@@ -1,0 +1,14 @@
+C:\Users\jacom\OneDrive\Documentos\dev\csharpPoo\metodoAbstrato02\bin\Debug\net7.0\metodoAbstrato02.exe
+C:\Users\jacom\OneDrive\Documentos\dev\csharpPoo\metodoAbstrato02\bin\Debug\net7.0\metodoAbstrato02.deps.json
+C:\Users\jacom\OneDrive\Documentos\dev\csharpPoo\metodoAbstrato02\bin\Debug\net7.0\metodoAbstrato02.runtimeconfig.json
+C:\Users\jacom\OneDrive\Documentos\dev\csharpPoo\metodoAbstrato02\bin\Debug\net7.0\metodoAbstrato02.dll
+C:\Users\jacom\OneDrive\Documentos\dev\csharpPoo\metodoAbstrato02\bin\Debug\net7.0\metodoAbstrato02.pdb
+C:\Users\jacom\OneDrive\Documentos\dev\csharpPoo\metodoAbstrato02\obj\Debug\net7.0\metodoAbstrato02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacom\OneDrive\Documentos\dev\csharpPoo\metodoAbstrato02\obj\Debug\net7.0\metodoAbstrato02.AssemblyInfoInputs.cache
+C:\Users\jacom\OneDrive\Documentos\dev\csharpPoo\metodoAbstrato02\obj\Debug\net7.0\metodoAbstrato02.AssemblyInfo.cs
+C:\Users\jacom\OneDrive\Documentos\dev\csharpPoo\metodoAbstrato02\obj\Debug\net7.0\metodoAbstrato02.csproj.CoreCompileInputs.cache
+C:\Users\jacom\OneDrive\Documentos\dev\csharpPoo\metodoAbstrato02\obj\Debug\net7.0\metodoAbstrato02.dll
+C:\Users\jacom\OneDrive\Documentos\dev\csharpPoo\metodoAbstrato02\obj\Debug\net7.0\refint\metodoAbstrato02.dll
+C:\Users\jacom\OneDrive\Documentos\dev\csharpPoo\metodoAbstrato02\obj\Debug\net7.0\metodoAbstrato02.pdb
+C:\Users\jacom\OneDrive\Documentos\dev\csharpPoo\metodoAbstrato02\obj\Debug\net7.0\metodoAbstrato02.genruntimeconfig.cache
+C:\Users\jacom\OneDrive\Documentos\dev\csharpPoo\metodoAbstrato02\obj\Debug\net7.0\ref\metodoAbstrato02.dll

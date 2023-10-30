@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\97528\\Desktop\\csharpPOO\\metodoAbstrato02\\metodoAbstrato02.csproj": {}
+    "C:\\Users\\jacom\\OneDrive\\Documentos\\dev\\csharpPoo\\metodoAbstrato02\\metodoAbstrato02.csproj": {}
   },
   "projects": {
-    "C:\\Users\\97528\\Desktop\\csharpPOO\\metodoAbstrato02\\metodoAbstrato02.csproj": {
+    "C:\\Users\\jacom\\OneDrive\\Documentos\\dev\\csharpPoo\\metodoAbstrato02\\metodoAbstrato02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\97528\\Desktop\\csharpPOO\\metodoAbstrato02\\metodoAbstrato02.csproj",
+        "projectUniqueName": "C:\\Users\\jacom\\OneDrive\\Documentos\\dev\\csharpPoo\\metodoAbstrato02\\metodoAbstrato02.csproj",
         "projectName": "metodoAbstrato02",
-        "projectPath": "C:\\Users\\97528\\Desktop\\csharpPOO\\metodoAbstrato02\\metodoAbstrato02.csproj",
-        "packagesPath": "C:\\Users\\97528\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\97528\\Desktop\\csharpPOO\\metodoAbstrato02\\obj\\",
+        "projectPath": "C:\\Users\\jacom\\OneDrive\\Documentos\\dev\\csharpPoo\\metodoAbstrato02\\metodoAbstrato02.csproj",
+        "packagesPath": "C:\\Users\\jacom\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jacom\\OneDrive\\Documentos\\dev\\csharpPoo\\metodoAbstrato02\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\97528\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\jacom\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"

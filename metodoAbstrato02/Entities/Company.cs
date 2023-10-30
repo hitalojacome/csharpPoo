@@ -10,7 +10,15 @@ namespace metodoAbstrato02.Entities
 
         public override double Tax()
         {
-            throw new NotImplementedException();
+            double tax = 0.0;
+
+            if (NumberOfEmployees > 10) {
+                tax += AnualIncome * 0.14;
+            } else {
+                tax += AnualIncome * 0.16;
+            }
+
+            return tax;
         }
     }
 }

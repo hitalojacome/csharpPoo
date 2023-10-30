@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Diagnostics.CodeAnalysis;
 using metodoAbstrato02.Entities;
 
 namespace MetodoAbstrato02 {
@@ -47,14 +46,16 @@ namespace MetodoAbstrato02 {
 
             Console.WriteLine();
             Console.WriteLine("TAXES PAID:");
-            double sum = 0.0;
+            double total = 0.0;
             for(int i = 0; i < n; i++) {
             
-                Console.WriteLine(list[i]);
-                sum += list[i].
+                Console.WriteLine($"{list[i].Name}: $ {list[i].Tax():F2}");
+                total += list[i].Tax();
             
             }
 
+            Console.WriteLine();
+            Console.WriteLine($"TOTAL TAXES: $ {total:F2}");
         }
     }
 }
