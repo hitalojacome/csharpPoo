@@ -12,7 +12,7 @@ namespace metodoAbstrato01.Entities
 
         public override double Area()
         {
-            return 3.141592265358979323846 * Math.Pow(Radius, 2); 
+            return Math.PI * Math.Pow(Radius, 2); 
         }
     }
 }
