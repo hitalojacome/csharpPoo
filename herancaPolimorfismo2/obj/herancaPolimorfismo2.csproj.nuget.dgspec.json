@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\beatr\\OneDrive\\Documentos\\dev\\csharpPoo\\herancaPolimorfismo2\\herancaPolimorfismo2.csproj": {}
+    "C:\\Users\\97528\\Desktop\\csharpPOO\\herancaPolimorfismo2\\herancaPolimorfismo2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\beatr\\OneDrive\\Documentos\\dev\\csharpPoo\\herancaPolimorfismo2\\herancaPolimorfismo2.csproj": {
+    "C:\\Users\\97528\\Desktop\\csharpPOO\\herancaPolimorfismo2\\herancaPolimorfismo2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\beatr\\OneDrive\\Documentos\\dev\\csharpPoo\\herancaPolimorfismo2\\herancaPolimorfismo2.csproj",
+        "projectUniqueName": "C:\\Users\\97528\\Desktop\\csharpPOO\\herancaPolimorfismo2\\herancaPolimorfismo2.csproj",
         "projectName": "herancaPolimorfismo2",
-        "projectPath": "C:\\Users\\beatr\\OneDrive\\Documentos\\dev\\csharpPoo\\herancaPolimorfismo2\\herancaPolimorfismo2.csproj",
-        "packagesPath": "C:\\Users\\beatr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\beatr\\OneDrive\\Documentos\\dev\\csharpPoo\\herancaPolimorfismo2\\obj\\",
+        "projectPath": "C:\\Users\\97528\\Desktop\\csharpPOO\\herancaPolimorfismo2\\herancaPolimorfismo2.csproj",
+        "packagesPath": "C:\\Users\\97528\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\97528\\Desktop\\csharpPOO\\herancaPolimorfismo2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\beatr\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\97528\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"

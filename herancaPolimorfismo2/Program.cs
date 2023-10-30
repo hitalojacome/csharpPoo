@@ -53,7 +53,7 @@ namespace Workspace {
 
             Console.WriteLine("PRICE TAGS: ");
             for (int i = 0; i < n; i++) {
-                Console.WriteLine(list[i].ToString());
+                Console.WriteLine(list[i]);
             }
         }
     }
