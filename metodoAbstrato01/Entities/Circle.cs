@@ -6,9 +6,7 @@ namespace metodoAbstrato01.Entities
     {
         public double Radius { get; set; }
 
-        public Circle() {}
-        public Circle(Color color, double radius) {
-            Color = color;
+        public Circle(Color color, double radius) : base (color) {
             Radius = radius;
         }
 
