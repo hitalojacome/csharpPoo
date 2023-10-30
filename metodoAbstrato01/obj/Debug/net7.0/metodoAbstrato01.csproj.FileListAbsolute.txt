@@ -1,0 +1,14 @@
+C:\Users\97528\Desktop\csharpPOO\metodoAbstrato01\bin\Debug\net7.0\metodoAbstrato01.exe
+C:\Users\97528\Desktop\csharpPOO\metodoAbstrato01\bin\Debug\net7.0\metodoAbstrato01.deps.json
+C:\Users\97528\Desktop\csharpPOO\metodoAbstrato01\bin\Debug\net7.0\metodoAbstrato01.runtimeconfig.json
+C:\Users\97528\Desktop\csharpPOO\metodoAbstrato01\bin\Debug\net7.0\metodoAbstrato01.dll
+C:\Users\97528\Desktop\csharpPOO\metodoAbstrato01\bin\Debug\net7.0\metodoAbstrato01.pdb
+C:\Users\97528\Desktop\csharpPOO\metodoAbstrato01\obj\Debug\net7.0\metodoAbstrato01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97528\Desktop\csharpPOO\metodoAbstrato01\obj\Debug\net7.0\metodoAbstrato01.AssemblyInfoInputs.cache
+C:\Users\97528\Desktop\csharpPOO\metodoAbstrato01\obj\Debug\net7.0\metodoAbstrato01.AssemblyInfo.cs
+C:\Users\97528\Desktop\csharpPOO\metodoAbstrato01\obj\Debug\net7.0\metodoAbstrato01.csproj.CoreCompileInputs.cache
+C:\Users\97528\Desktop\csharpPOO\metodoAbstrato01\obj\Debug\net7.0\metodoAbstrato01.dll
+C:\Users\97528\Desktop\csharpPOO\metodoAbstrato01\obj\Debug\net7.0\refint\metodoAbstrato01.dll
+C:\Users\97528\Desktop\csharpPOO\metodoAbstrato01\obj\Debug\net7.0\metodoAbstrato01.pdb
+C:\Users\97528\Desktop\csharpPOO\metodoAbstrato01\obj\Debug\net7.0\metodoAbstrato01.genruntimeconfig.cache
+C:\Users\97528\Desktop\csharpPOO\metodoAbstrato01\obj\Debug\net7.0\ref\metodoAbstrato01.dll
