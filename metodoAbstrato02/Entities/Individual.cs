@@ -1,5 +1,3 @@
-using System.Diagnostics.CodeAnalysis;
-
 namespace metodoAbstrato02.Entities
 {
     public class Individual : TaxPayer
