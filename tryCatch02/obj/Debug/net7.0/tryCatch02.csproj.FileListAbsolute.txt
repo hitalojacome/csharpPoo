@@ -1,0 +1,14 @@
+C:\Users\97528\Desktop\csharpPOO\tryCatch02\bin\Debug\net7.0\tryCatch02.exe
+C:\Users\97528\Desktop\csharpPOO\tryCatch02\bin\Debug\net7.0\tryCatch02.deps.json
+C:\Users\97528\Desktop\csharpPOO\tryCatch02\bin\Debug\net7.0\tryCatch02.runtimeconfig.json
+C:\Users\97528\Desktop\csharpPOO\tryCatch02\bin\Debug\net7.0\tryCatch02.dll
+C:\Users\97528\Desktop\csharpPOO\tryCatch02\bin\Debug\net7.0\tryCatch02.pdb
+C:\Users\97528\Desktop\csharpPOO\tryCatch02\obj\Debug\net7.0\tryCatch02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97528\Desktop\csharpPOO\tryCatch02\obj\Debug\net7.0\tryCatch02.AssemblyInfoInputs.cache
+C:\Users\97528\Desktop\csharpPOO\tryCatch02\obj\Debug\net7.0\tryCatch02.AssemblyInfo.cs
+C:\Users\97528\Desktop\csharpPOO\tryCatch02\obj\Debug\net7.0\tryCatch02.csproj.CoreCompileInputs.cache
+C:\Users\97528\Desktop\csharpPOO\tryCatch02\obj\Debug\net7.0\tryCatch02.dll
+C:\Users\97528\Desktop\csharpPOO\tryCatch02\obj\Debug\net7.0\refint\tryCatch02.dll
+C:\Users\97528\Desktop\csharpPOO\tryCatch02\obj\Debug\net7.0\tryCatch02.pdb
+C:\Users\97528\Desktop\csharpPOO\tryCatch02\obj\Debug\net7.0\tryCatch02.genruntimeconfig.cache
+C:\Users\97528\Desktop\csharpPOO\tryCatch02\obj\Debug\net7.0\ref\tryCatch02.dll
