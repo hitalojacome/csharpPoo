@@ -20,9 +20,9 @@ namespace Inter
             Console.Write("Enter number of installments: ");
             int months = int.Parse(Console.ReadLine()!);
 
-            Contract myContract = new Contract(contractNumber, contractDate, contractValue);
+            Contract myContract = new(contractNumber, contractDate, contractValue);
 
-            ContractService contractService = new (new PaypalService());
+            ContractService contractService = new(new PaypalService());
             contractService.ProcessContract(myContract, months);
 
             Console.WriteLine("Installments:");
