@@ -21,9 +21,10 @@ namespace Files
 
                 Directory.CreateDirectory(targetFolderPath);
 
-                using (StreamWriter sw = File.AppendText(targetFilePath)) {
-                    foreach (string line in lines) {
-
+                using (StreamWriter sw = File.AppendText(targetFilePath)) 
+                {
+                    foreach (string line in lines) 
+                    {
                         string[] fields = line.Split(',');
                         string name = fields[0];
                         double price = double.Parse(fields[1]);
@@ -31,7 +32,7 @@ namespace Files
 
                         Product prod = new(name, price, quantity);
 
-                        sw.WriteLine($"{prod.Name}, {prod.Total:F2)}");
+                        sw.WriteLine($"{prod.Name}, TOTAL: {prod.Total:F2)}");
                     }
                 }
             }

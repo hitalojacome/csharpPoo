@@ -1,0 +1,14 @@
+C:\Users\97528\Desktop\csharpPOO\Dictionary\bin\Debug\net7.0\Dictionary.exe
+C:\Users\97528\Desktop\csharpPOO\Dictionary\bin\Debug\net7.0\Dictionary.deps.json
+C:\Users\97528\Desktop\csharpPOO\Dictionary\bin\Debug\net7.0\Dictionary.runtimeconfig.json
+C:\Users\97528\Desktop\csharpPOO\Dictionary\bin\Debug\net7.0\Dictionary.dll
+C:\Users\97528\Desktop\csharpPOO\Dictionary\bin\Debug\net7.0\Dictionary.pdb
+C:\Users\97528\Desktop\csharpPOO\Dictionary\obj\Debug\net7.0\Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97528\Desktop\csharpPOO\Dictionary\obj\Debug\net7.0\Dictionary.AssemblyInfoInputs.cache
+C:\Users\97528\Desktop\csharpPOO\Dictionary\obj\Debug\net7.0\Dictionary.AssemblyInfo.cs
+C:\Users\97528\Desktop\csharpPOO\Dictionary\obj\Debug\net7.0\Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\97528\Desktop\csharpPOO\Dictionary\obj\Debug\net7.0\Dictionary.dll
+C:\Users\97528\Desktop\csharpPOO\Dictionary\obj\Debug\net7.0\refint\Dictionary.dll
+C:\Users\97528\Desktop\csharpPOO\Dictionary\obj\Debug\net7.0\Dictionary.pdb
+C:\Users\97528\Desktop\csharpPOO\Dictionary\obj\Debug\net7.0\Dictionary.genruntimeconfig.cache
+C:\Users\97528\Desktop\csharpPOO\Dictionary\obj\Debug\net7.0\ref\Dictionary.dll
