@@ -15,6 +15,8 @@ class Program
         List<Employee> employees = new();
 
         using StreamReader sr = File.OpenText(path);
+
+        // Add a new object until the file ends 
         while (!sr.EndOfStream)
         {
             string[] fields = sr.ReadLine()!.Split(',');
@@ -27,7 +29,9 @@ class Program
 
         Console.Write("Enter salary: ");
         double salaryQuery = double.Parse(Console.ReadLine()!);
+
         Console.WriteLine($"\nEmail of people whose salary is more than {salaryQuery:F2}:");
+        // Query using SQL sintaxe
         var firstQuery = from employee in employees
                          where employee.Salary >= salaryQuery
                          select new 
@@ -39,10 +43,8 @@ class Program
             Console.WriteLine(employee);
         }
 
+        // Query using Lambda expression
         var secondQuery = employees.Where(employee => employee.Name![0] == 'M').Sum(employee => employee.Salary);
-        Console.Write($"Sum of salary of people whose name starts with 'M': {secondQuery:F2}");
-
-
-
+        Console.Write($"\nSum of salary of people whose name starts with 'M': {secondQuery:F2}");
     }
 }
