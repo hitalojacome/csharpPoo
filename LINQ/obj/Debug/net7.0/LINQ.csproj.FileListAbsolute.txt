@@ -12,3 +12,4 @@ C:\Users\97528\Desktop\csharpPOO\LINQ\obj\Debug\net7.0\refint\LINQ.dll
 C:\Users\97528\Desktop\csharpPOO\LINQ\obj\Debug\net7.0\LINQ.pdb
 C:\Users\97528\Desktop\csharpPOO\LINQ\obj\Debug\net7.0\LINQ.genruntimeconfig.cache
 C:\Users\97528\Desktop\csharpPOO\LINQ\obj\Debug\net7.0\ref\LINQ.dll
+C:\Users\97528\Desktop\csharpPOO\LINQ\obj\Debug\net7.0\LINQ.sourcelink.json

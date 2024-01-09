@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "jg5BbATb9jRbKUUGn+emnlEKfH7as4tM9LDeZnTc9CKjpql/3a5H/K7oZwfTn5pQIqzT1tIb3FoUqDQlY3SHpg==",
+  "dgSpecHash": "d1OHjES7GCazpPQ20k5t+8fPyz7fy8ZZIZV807ulQuXVUlHt0FgsmKlMvnL1eIujiA/V7Bnlzj3YQqSNQOy/iA==",
   "success": true,
   "projectFilePath": "C:\\Users\\97528\\Desktop\\csharpPOO\\LINQ\\LINQ.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\97528\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\97528\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\97528\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\97528\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
   "logs": []
 }
